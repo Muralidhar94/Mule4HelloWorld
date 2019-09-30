@@ -31,7 +31,7 @@
 				      <username>murali949</username>
 				      <password>Mural!321</password>
 				      <applicationName>hello-world-app-dev</applicationName>
-				      <environment>Design</environment>
+				      <environment>Sandbox</environment>
 				      <properties>
 				      </properties>
 				    </cloudHubDeployment>
